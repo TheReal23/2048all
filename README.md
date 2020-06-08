@@ -1,2 +1,2 @@
-# 2048 Variants
-A list of 2048 Variants.
+# 2048 All
+All the lists of 2048 Variants out there. 
